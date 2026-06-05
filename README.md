@@ -27,9 +27,6 @@ http://localhost:3001
 To check if backend is working:
 http://localhost:3001/api/health just run this and it should show "status":"backend is running"
 
-Frontend should be:
-http://127.0.0.1:5173
-
 Need to put the Azure Custom Vision image file prediction url and prediction key
 in backend/.env or the prediction will not work.
 
