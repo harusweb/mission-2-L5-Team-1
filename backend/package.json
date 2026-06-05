@@ -1,0 +1,17 @@
+{
+  "name": "turners-car-insurance-backend",
+  "version": "1.0.0",
+  "description": "Node http backend for the Turners Car Insurance AI prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "azure",
+    "custom-vision"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
