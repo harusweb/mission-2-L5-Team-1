@@ -1,4 +1,4 @@
-This is my Mission 1 project for Turners car insurance.
+This is my Mission 2 project for Turners car insurance with Team 1.
 
 It is just a small prototype where you upload a car image and it tries to tell
 what type of car it is.
@@ -35,3 +35,6 @@ in backend/.env or the prediction will not work.
 
 This project is not doing real insurance prices yet. It is mostly just the car
 image checker part.
+
+
+We have implemented 4 APIs that will test different inputs that will affect the final insurance price for a driver depending on different metrics
